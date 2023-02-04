@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">High Low Game</string>
+    <string name="start">Start</string>
+    <string name="win">WIN</string>
+    <string name="lose">LOSE</string>
+    <string name="back_to_main_menu">Back to Main Menu</string>
+    <string name="author">Program by Yuan Zhang</string>
+    <string name="guess_fuel">Guess-Fuel</string>
+    <string name="guess_count">Guess-Count</string>
+    <string name="too_low">Too Low</string>
+    <string name="too_high">Too High</string>
+    <string name="guess_the_number">Guess the number</string>
+    <string name="submit">Submit</string>
+</resources>
